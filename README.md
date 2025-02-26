@@ -14,3 +14,6 @@ However, further improvements plateaued, indicating the need for deeper feature 
 
 # Getting Started
 
+Following libraries have been used: subprocess, re, tqdm, collections, pandas, scikit-learn.
+
+Yosys can be downloaded from here: https://yosyshq.net/yosys/download.html
